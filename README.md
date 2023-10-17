@@ -1,6 +1,6 @@
 # Background Removal
 
-### 1.1 Before Finetuning : rembg-main>run_rembg.py<br />
+### 1.1 Before Finetuning : rembg-main>run_rembg.py
 ### 1.2 After Finetuning: rembg-main>ft_run_rembg.py<br />
  -To use finetuned model, finetuned model should be placed in rembg-main>rembg>sessions folder<br /><br />
 

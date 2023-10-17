@@ -4,11 +4,11 @@
  - rembg-main>run_rembg.py
 ### 1.2 After Finetuning
  - rembg-main>ft_run_rembg.py
- -To use finetuned model, finetuned model should be placed in rembg-main>rembg>sessions folder<br /><br />
+ - To use finetuned model, finetuned model should be placed in rembg-main>rembg>sessions folder<br /><br />
 
 ### 2.1 Finetuning code
  - U-2-Net-master>finetune_u2net.ipynb or U-2-Net-master>linux_finetune_u2net.ipynb
- -(rest of the codes are codes from "https://github.com/xuebinqin/U-2-Net")<br /><br />
+ - (rest of the codes are codes from "https://github.com/xuebinqin/U-2-Net")<br /><br />
 
 ### 3.1 Dis Demo.ipynb
  - code running DIS model(another background removal model)<br /><br />

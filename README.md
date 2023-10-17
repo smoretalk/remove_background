@@ -8,5 +8,5 @@
  -(rest of the codes are codes from "https://github.com/xuebinqin/U-2-Net")<br /><br />
 
 ### 3.1 Dis Demo.ipynb : code running DIS model(another background removal model)<br /><br />
-### 3.2 prepare_gt_for_ft : making groundtruth images for finetuning (background-removed image to (0,255) black and white groundtruth image)<br /><br /> 
+### 3.2 prepare_gt_for_ft : making groundtruth images for finetuning (background-removed image to (0,255) black and white groundtruth image)<br /><br />
 ### 3.3 image_augmentation.ipynb : augment images by flipping, rotating, .... There are 7 augmentation methods in this code.<br /><br />

@@ -2,9 +2,10 @@
 
 ### 1.1 Before Finetuning 
  - rembg-main>run_rembg.py
+ - To use remby model, u2net.onnx model should be placed in rembg-main>rembg>sessions folder<br /><br />
 ### 1.2 After Finetuning
  - rembg-main>ft_run_rembg.py
- - To use finetuned model, finetuned model should be placed in rembg-main>rembg>sessions folder<br /><br />
+ - To use finetuned model, finetuned model(pth or onnx) should be placed in rembg-main>rembg>sessions folder<br /><br />
 
 ### 2.1 Finetuning code
  - U-2-Net-master>finetune_u2net.ipynb or U-2-Net-master>linux_finetune_u2net.ipynb
